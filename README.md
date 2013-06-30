@@ -1,2 +1,4 @@
-jetty-websocket-groovy
-======================
+Quick Start
+===========
+
+        sh run.sh
