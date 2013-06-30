@@ -1,2 +1,1 @@
-groovy server.groovy &
-open index.html
+open index.html && groovy server.groovy
